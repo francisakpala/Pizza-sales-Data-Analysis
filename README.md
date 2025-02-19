@@ -26,6 +26,7 @@ Clear and interactive visualizations that help stakeholders understand revenue d
 A data-driven approach to improving sales strategies, inventory management, and pricing optimization.
 Technologies Used
 SQL (for querying and analyzing sales data)
+DBMS(POSTGRESQL)
 Power BI (for interactive dashboards and data visualization)
 Next Steps
 Clean and structure the sales data.
